@@ -19,5 +19,5 @@ public:
     //SHIP SELECTOR
     static std::shared_ptr<Spaceships>playersShip();
 
-}
+};
 #endif //UNTITLED_EVENTS_H
